@@ -1,0 +1,35 @@
+{
+  "name":"Target Object",
+  "map":{
+    "Key 1":{
+      "value1":3,
+      "value2":"case 1"
+    },
+    "Key 2":{
+      "value1":5,
+      "value2":"case 2"
+    },
+    "Key 3":{
+      "value1":7,
+      "value2":"case 3"
+    }
+  },
+  "list":[
+    {
+      "value1":2,
+      "value2":"list 2"
+    },
+    {
+      "value1":2,
+      "value2":"list 1"
+    },
+    {
+      "value1":2,
+      "value2":"list 3"
+    },
+    {
+      "value1":2,
+      "value2":"list 3"
+    }
+  ]
+}
